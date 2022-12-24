@@ -3,6 +3,8 @@ Built a website that using TMDB API will let you search for movies and TV shows 
 
 Technologies used: HTML,CSS,JavaScript, Python, JSON, Microsoft Azure and Flask framework.
 
+[Website](https://hw6hemanthmandapati.azurewebsites.net)
+
 Image 1: When website is opened
 ![1st](https://user-images.githubusercontent.com/78030555/209449209-acc87e57-a5da-4ac1-bb5f-c037108f4c68.png)
 ![2nd](https://user-images.githubusercontent.com/78030555/209449234-fec174e1-b81b-4f8a-af46-ae87430798f2.png)
