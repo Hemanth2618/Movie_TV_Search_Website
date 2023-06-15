@@ -8,7 +8,6 @@ Technologies used: HTML,CSS,JavaScript, Python, JSON, Microsoft Azure and Flask 
 
 Image 1: When website is opened
 ![1st](https://user-images.githubusercontent.com/78030555/209449209-acc87e57-a5da-4ac1-bb5f-c037108f4c68.png)
-![2nd](https://user-images.githubusercontent.com/78030555/209449234-fec174e1-b81b-4f8a-af46-ae87430798f2.png)
 
 Image 2: Search feature
 ![3rd](https://user-images.githubusercontent.com/78030555/209449248-a249231e-84d8-4660-89fd-4368eae4a913.png)
